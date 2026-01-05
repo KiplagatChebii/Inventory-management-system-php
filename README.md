@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project Purpose
 
 The purpose of this project is to build a practical Inventory Management System while developing strong fundamentals in front-end and back-end web development.
@@ -49,4 +50,6 @@ backend/
 - laravel/
 
 README.md
+=======
+>>>>>>> 1c489649f23e70c996934991c46fa52a8b70eea9
 
