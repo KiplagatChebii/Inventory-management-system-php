@@ -7,3 +7,23 @@ Rather than focusing on frameworks first, this project emphasizes:
 - Core language concepts
 - Progressive improvement
 - Real-world problem modeling
+## What I Am Learning
+
+Through this project, I am strengthening:
+
+### Front-End
+- Semantic HTML structure
+- CSS layout, styling, and responsiveness
+- JavaScript fundamentals (DOM manipulation, events, logic)
+
+### Back-End
+- PHP fundamentals
+- Laravel basics (routing, controllers, views)
+- Basic CRUD operations
+- Connecting front-end interfaces to back-end logic
+
+### Development Practices
+- Version control with Git and GitHub
+- Writing clear commit messages
+- Incremental feature development
+- Code refactoring for readability and maintainability
