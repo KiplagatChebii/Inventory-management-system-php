@@ -27,3 +27,13 @@ Through this project, I am strengthening:
 - Writing clear commit messages
 - Incremental feature development
 - Code refactoring for readability and maintainability
+## How the Project Evolves
+
+This project is intentionally developed in small, incremental steps.
+
+- Features are added gradually
+- Code is refactored as concepts improve
+- Early implementations may be simple and later improved
+- Commit history reflects learning progress and design decisions
+
+This approach mirrors real-world software development, where systems evolve over time.
